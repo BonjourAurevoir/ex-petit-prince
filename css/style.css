@@ -5,16 +5,24 @@
 }
 #navbar {
   text-align:center;
+  font-size:16px;
 }
 #titchap1 {
   text-align: center;
+    font-family: "Indie Flower";
 }
 #titchap2 {
   text-align: center;
+    font-family: "Indie Flower";
 }
 #titchap3 {
   text-align: center;
+    font-family: "Indie Flower";
 }
 #titchap4 {
   text-align: center;
+    font-family: "Indie Flower";
+}
+#chap1 {
+  text-align:center;
 }
